@@ -18,4 +18,5 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Dataset
-See: data/dataset_link.txt
+Student Stress Factors: A Comprehensive Analysis  
+https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis
