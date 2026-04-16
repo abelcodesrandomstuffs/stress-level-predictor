@@ -20,3 +20,5 @@ streamlit run app.py
 ## Dataset
 Student Stress Factors: A Comprehensive Analysis  
 https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis
+## App Preview
+![UI](images/ui.png)
